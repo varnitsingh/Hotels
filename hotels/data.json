@@ -1,0 +1,48 @@
+{
+    "id": 3317,
+    "uid": "f7666605-0a3f-4ccc-85cd-051b70cc5c35",
+    "name": "Silver Pizza",
+    "type": "Comfort Food",
+    "description": "To achieve and maintain such distinction in food and wine, service, atmosphere and setting that the restaurant gains a first class reputation for gastronomy, gracious and informed hospitality, comfort and beauty which draws new and repeat customers year after year. To achieve the above whilst upholding staff policies and practices which promote a fair and positive working environment. To be aware of and act on our responsibilities as a good corporate citizen to provide a safe, clean and attractive place for guests to enjoy and for employees to work in - ensure ecologically sound management practices at the restaurant and in our surrounding gardens and woods - undertake meaningful involvement of Restaurant Les Fougères in selected charitable activities in our community and region.",
+    "review": "Fish was high quality but portions were small. $57 for 9 pieces and a hand roll which is fair but on the expensive side.",
+    "logo": "https://loremflickr.com/500/500/restaurant",
+    "phone_number": "(914) 428-7285 x15717",
+    "address": "27618 Bartell Glen, West Troy, NE 22436",
+    "hours": {
+        "monday": {
+            "opens_at": "9:39 AM",
+            "closes_at": "6:31 PM",
+            "is_closed": true
+        },
+        "tuesday": {
+            "opens_at": "10:56 AM",
+            "closes_at": "4:21 PM",
+            "is_closed": true
+        },
+        "wednesday": {
+            "opens_at": "10:54 AM",
+            "closes_at": "7:19 PM",
+            "is_closed": true
+        },
+        "thursday": {
+            "opens_at": "11:10 AM",
+            "closes_at": "5:44 PM",
+            "is_closed": true
+        },
+        "friday": {
+            "opens_at": "10:29 AM",
+            "closes_at": "4:47 PM",
+            "is_closed": false
+        },
+        "saturday": {
+            "opens_at": "9:26 AM",
+            "closes_at": "7:47 PM",
+            "is_closed": false
+        },
+        "sunday": {
+            "opens_at": "8:54 AM",
+            "closes_at": "9:35 PM",
+            "is_closed": false
+        }
+    }
+}
